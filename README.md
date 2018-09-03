@@ -1,5 +1,6 @@
 <h1 id="top">Git Notes</h1>
-Review of basic processes, resolving simple merge conflicts, to be continued...
+
+Review of basic processes, resolving simple merge conflicts (to be continued...)
 
 [Git Refresher &#9660;](#git-refresher)
 
